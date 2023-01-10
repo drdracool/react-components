@@ -2,6 +2,14 @@
 
 This application shows commonly-used application components including button, accordion, dropdown, panel, sidebar, and table implemented using React.
 
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/97832811/211475383-44d337ad-6bee-44ac-812f-02cf4243450e.png">
+<img width="1339" alt="image" src="https://user-images.githubusercontent.com/97832811/211475446-e325bafc-5ab8-40a4-9a46-32255f7b5b00.png">
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/97832811/211475495-30ec9a4e-01d9-45f5-99ee-5c255525f80c.png">
+<img width="1354" alt="image" src="https://user-images.githubusercontent.com/97832811/211475523-f61e098e-d192-450b-b452-8bacc06936f1.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/97832811/211475543-690f9967-cfe6-43cd-b8c7-0485983563c1.png">
+<img width="1338" alt="image" src="https://user-images.githubusercontent.com/97832811/211475573-25f0c5e1-8a0c-4fce-8a0d-9afeba83c08b.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
